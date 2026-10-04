@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Jonathan 👋</h1>
+<h1 align="center">Hey, I'm Jonathan</h1>
 
 <p align="center">
   <b>Student • Hobby Developer • Hardware Enthusiast</b><br>
@@ -13,11 +13,11 @@
 
 ### About me
 
-- 🇩🇪 Based in Germany
-- 💻 Interested in **programming, hardware & embedded systems**
-- 👁️ Experimenting with **real-time computer vision and YOLO**
-- 🔌 Building projects with **RP2350, Arduino & Raspberry Pi**
-- 🐧 Experimenting with **Windows & Linux**
+- Based in Germany
+- Interested in **programming, hardware & embedded systems**
+- Experimenting with **real-time computer vision and YOLO**
+- Building projects with **RP2350, Arduino & Raspberry Pi**
+- Experimenting with **Windows & Linux**
 
 ### Tech
 
